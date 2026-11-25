@@ -3,7 +3,7 @@
   font-weight: 400;
   font-style: normal;
   text-align: center;
-  color: white;
+  color: #111217;
 }
 
 .container {
@@ -12,8 +12,12 @@
   margin: 0 auto;
 }
 
+nav > a {
+  color: #DFE5EB;
+}
+
 body {
-  background-color: black;
+  background-color: #DFE5EB;
 }
 
 h1 {
@@ -34,18 +38,28 @@ div > article {
   height: 20em;
   padding: 0.3em 1em;
   margin: 1em;
-  border: 0.1em solid white;
+  background-color: #EF233C;
+  border: 0.1em solid #EF233C;
   border-radius: 0.5em;
   vertical-align: top;
 
   h3 {
+    color: #111217;
     font-size: 1.7em
+  }
+
+  p {
+    color: #111217;
   }
 
   a {
     text-align: right;
     display: block;
-    color: lightseagreen
+    color: #DFE5EB
+  }
+
+  img {
+    color: #111217;
   }
 }
 
@@ -68,6 +82,29 @@ header {
   }
 }
 
+.contact {
+  padding-bottom: 10em;
+  border-bottom: 0.2em solid #EF233C;
+}
+
+.red {
+  color: #EF233C;
+}
+.black {
+  color: #111217
+}
+.white {
+  color: #DFE5EB;
+}
+.bg-red {
+  background-color: #EF233C;
+}
+.bg-black {
+  background-color: #111217;
+}
+.bg-white {
+  background-color: #DFE5EB;
+}
 footer {
   p {
     padding-top: 9em;
