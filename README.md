@@ -6,4 +6,7 @@ What's on there?
 - Personal projects
 - Links to my other stuff
 
-Made with HTML, CSS and Google Fonts.
+How can I run it?
+- Simple! Just go to https://miroslavorel.github.io/my-portfolio/ and you'll be right on there!
+
+Made with HTML, CSS and Google Fonts (by me). The images were all made with Adobe Photoshop (by me).
